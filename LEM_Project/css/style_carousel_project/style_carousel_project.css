@@ -1,3 +1,11 @@
 #carouselExampleCaptions{
   max-width: 300px
 }
+
+#myCarousel .carousel-indicators button {
+    background-color: black; /* Imposta il colore di sfondo degli indicatori a nero */
+}
+
+#myCarousel .carousel-indicators .active {
+    background-color: black; /* Imposta il colore dell'indicatore attivo a nero */
+}
